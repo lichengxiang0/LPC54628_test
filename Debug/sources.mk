@@ -19,6 +19,7 @@ component/serial_manager \
 component/uart \
 device \
 drivers \
+fatfs/fatfs_source \
 sdmmc/port \
 sdmmc/src \
 source \

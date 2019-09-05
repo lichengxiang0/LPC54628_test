@@ -54,7 +54,9 @@ extern uint32_t SystemCoreClock;
  ******************************************************************************/
 void BOARD_InitBootClocks(void)
 {
-    BOARD_BootClockFROHF96M();
+//    BOARD_BootClockFROHF96M();
+	BOARD_BootClockPLL220M();
+
 }
 
 /*******************************************************************************

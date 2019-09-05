@@ -44,6 +44,10 @@ extern "C" {
  */
 void BOARD_InitBootPins(void);
 
+
+/* add test defined */
+void BOARDInitSDCard(void);
+
 /*!
  * @brief Configures pin routing and optionally pin electrical features.
  *

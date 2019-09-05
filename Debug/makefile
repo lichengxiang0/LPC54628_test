@@ -13,6 +13,7 @@ RM := rm -rf
 -include source/subdir.mk
 -include sdmmc/src/subdir.mk
 -include sdmmc/port/subdir.mk
+-include fatfs/fatfs_source/subdir.mk
 -include drivers/subdir.mk
 -include device/subdir.mk
 -include component/uart/subdir.mk

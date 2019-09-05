@@ -6,7 +6,7 @@
  * Generated linker script file for LPC54628J512
  * Created from linkscript.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.23
- * MCUXpresso IDE v10.3.1 [Build 2233] [2019-02-20] on 2019-9-3 17:37:57
+ * MCUXpresso IDE v10.3.1 [Build 2233] [2019-02-20] on 2019-9-4 19:20:36
  */
 
 INCLUDE "LPC54628J512_Project_Debug_library.ld"
